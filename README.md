@@ -70,4 +70,4 @@ $env:NODE_ENV="development"; npx tsx server/index.ts
 
 ## Equipo
 
-Proyecto académico desarrollado en equipo.
+Proyecto desarrollado en equipo.
