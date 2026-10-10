@@ -1,0 +1,17 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Copia de respaldo del proyecto exportada desde Replit (61 MB)
+*.zip
+
+# Estado interno del agente de Replit
+.local/
+Kid-Quiz-Arena/
+
+# Variables de entorno y logs
+.env
+*.log

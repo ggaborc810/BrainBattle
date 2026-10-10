@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "Spider-Man",
+    "imageUrl": "/assets/characters/spiderman.png",
+    "cost": 1000,
+    "isPremium": true
+  },
+  {
+    "id": 2,
+    "name": "Batman",
+    "imageUrl": "/assets/characters/batman.png",
+    "cost": 950,
+    "isPremium": true
+  },
+  {
+    "id": 3,
+    "name": "Superman",
+    "imageUrl": "/assets/characters/superman.png",
+    "cost": 900,
+    "isPremium": true
+  },
+  {
+    "id": 4,
+    "name": "Iron Man",
+    "imageUrl": "/assets/characters/ironman.png",
+    "cost": 850,
+    "isPremium": true
+  },
+  {
+    "id": 5,
+    "name": "Captain America",
+    "imageUrl": "/assets/characters/captainamerica.png",
+    "cost": 800,
+    "isPremium": true
+  },
+  {
+    "id": 6,
+    "name": "Wonder Woman",
+    "imageUrl": "/assets/characters/wonderwoman.png",
+    "cost": 750,
+    "isPremium": true
+  },
+  {
+    "id": 7,
+    "name": "Hulk",
+    "imageUrl": "/assets/characters/hulk.png",
+    "cost": 700,
+    "isPremium": true
+  },
+  {
+    "id": 8,
+    "name": "Thor",
+    "imageUrl": "/assets/characters/thor.png",
+    "cost": 650,
+    "isPremium": true
+  },
+  {
+    "id": 9,
+    "name": "Wolverine",
+    "imageUrl": "/assets/characters/wolverine.png",
+    "cost": 600,
+    "isPremium": true
+  },
+  {
+    "id": 10,
+    "name": "Deadpool",
+    "imageUrl": "/assets/characters/deadpool.png",
+    "cost": 550,
+    "isPremium": true
+  },
+  {
+    "id": 11,
+    "name": "Black Panther",
+    "imageUrl": "/assets/characters/blackpanther.png",
+    "cost": 500,
+    "isPremium": true
+  },
+  {
+    "id": 12,
+    "name": "Flash",
+    "imageUrl": "/assets/characters/flash.png",
+    "cost": 450,
+    "isPremium": true
+  },
+  {
+    "id": 13,
+    "name": "Green Lantern",
+    "imageUrl": "/assets/characters/greenlantern.png",
+    "cost": 400,
+    "isPremium": true
+  },
+  {
+    "id": 14,
+    "name": "Aquaman",
+    "imageUrl": "/assets/characters/aquaman.png",
+    "cost": 350,
+    "isPremium": true
+  },
+  {
+    "id": 15,
+    "name": "Doctor Strange",
+    "imageUrl": "/assets/characters/doctorstrange.png",
+    "cost": 300,
+    "isPremium": true
+  },
+  {
+    "id": 16,
+    "name": "Scarlet Witch",
+    "imageUrl": "/assets/characters/scarletwitch.png",
+    "cost": 250,
+    "isPremium": true
+  },
+  {
+    "id": 17,
+    "name": "Jean Grey",
+    "imageUrl": "/assets/characters/jeangrey.png",
+    "cost": 200,
+    "isPremium": true
+  },
+  {
+    "id": 18,
+    "name": "Storm",
+    "imageUrl": "/assets/characters/storm.png",
+    "cost": 150,
+    "isPremium": true
+  },
+  {
+    "id": 19,
+    "name": "Cyclops",
+    "imageUrl": "/assets/characters/cyclops.png",
+    "cost": 100,
+    "isPremium": true
+  },
+  {
+    "id": 20,
+    "name": "Professor X",
+    "imageUrl": "/assets/characters/professorx.png",
+    "cost": 50,
+    "isPremium": true
+  },
+  {
+    "id": 21,
+    "name": "Ant-Man",
+    "imageUrl": "/assets/characters/antman.png",
+    "cost": 40,
+    "isPremium": true
+  },
+  {
+    "id": 22,
+    "name": "Wasp",
+    "imageUrl": "/assets/characters/wasp.png",
+    "cost": 30,
+    "isPremium": true
+  },
+  {
+    "id": 23,
+    "name": "Vision",
+    "imageUrl": "/assets/characters/vision.png",
+    "cost": 20,
+    "isPremium": true
+  },
+  {
+    "id": 24,
+    "name": "Hawkeye",
+    "imageUrl": "/assets/characters/hawkeye.png",
+    "cost": 10,
+    "isPremium": true
+  },
+  {
+    "id": 25,
+    "name": "Daredevil",
+    "imageUrl": "/assets/characters/daredevil.png",
+    "cost": 5,
+    "isPremium": true
+  },
+  {
+    "id": 26,
+    "name": "Punisher",
+    "imageUrl": "/assets/characters/punisher.png",
+    "cost": 2,
+    "isPremium": true
+  },
+  {
+    "id": 27,
+    "name": "Green Arrow",
+    "imageUrl": "/assets/characters/greenarrow.png",
+    "cost": 1,
+    "isPremium": true
+  },
+  {
+    "id": 28,
+    "name": "Nightwing",
+    "imageUrl": "/assets/characters/nightwing.png",
+    "cost": 0,
+    "isPremium": false
+  },
+  {
+    "id": 29,
+    "name": "Batgirl",
+    "imageUrl": "/assets/characters/batgirl.png",
+    "cost": 0,
+    "isPremium": false
+  },
+  {
+    "id": 30,
+    "name": "Robin",
+    "imageUrl": "/assets/characters/robin.png",
+    "cost": 0,
+    "isPremium": false
+  },
+  {
+    "id": 31,
+    "name": "Rogue",
+    "imageUrl": "/assets/characters/rogue.png",
+    "cost": 0,
+    "isPremium": false
+  },
+  {
+    "id": 32,
+    "name": "Silver Surfer",
+    "imageUrl": "/assets/characters/silversurfer.png",
+    "cost": 0,
+    "isPremium": false
+  }
+]

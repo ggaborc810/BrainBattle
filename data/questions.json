@@ -1,0 +1,468 @@
+[
+  {
+    "id": 1,
+    "question": "¿De qué sustancia son las perlas?",
+    "options": ["Plástico", "Nácar", "Diamante", "Vidrio"],
+    "correctAnswer": 1,
+    "topic": "Naturaleza",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "question": "¿Las arañas son insectos?",
+    "options": ["Sí", "No, son arácnidos", "Son crustáceos", "Son mamíferos"],
+    "correctAnswer": 1,
+    "topic": "Naturaleza",
+    "level": 1
+  },
+  {
+    "id": 3,
+    "question": "¿Qué tipo de animal es el delfín?",
+    "options": ["Pez", "Anfibio", "Mamífero", "Reptil"],
+    "correctAnswer": 2,
+    "topic": "Naturaleza",
+    "level": 1
+  },
+  {
+    "id": 4,
+    "question": "¿Cómo respiran las ranas además de pulmones?",
+    "options": [
+      "Por las branquias",
+      "Por la piel",
+      "Por la nariz",
+      "No respiran"
+    ],
+    "correctAnswer": 1,
+    "topic": "Naturaleza",
+    "level": 1
+  },
+  {
+    "id": 5,
+    "question": "¿Hay plantas en el fondo del océano?",
+    "options": [
+      "Sí, muchísimas",
+      "No, porque no hay luz",
+      "Solo en invierno",
+      "Depende de la sal"
+    ],
+    "correctAnswer": 1,
+    "topic": "Medio Ambiente",
+    "level": 1
+  },
+  {
+    "id": 6,
+    "question": "¿De qué rayos protege la crema solar?",
+    "options": ["Infrarrojos", "Rayos X", "Ultravioletas", "Gamma"],
+    "correctAnswer": 2,
+    "topic": "Ciencia",
+    "level": 1
+  },
+  {
+    "id": 8,
+    "question": "¿De qué se hace el papel?",
+    "options": ["Piedras", "Árboles", "Petróleo", "Arena"],
+    "correctAnswer": 1,
+    "topic": "Medio Ambiente",
+    "level": 1
+  },
+  {
+    "id": 9,
+    "question": "¿Cómo se llama quien protege la naturaleza?",
+    "options": ["Ecologista", "Cazador", "Leñador", "Turista"],
+    "correctAnswer": 0,
+    "topic": "Medio Ambiente",
+    "level": 1
+  },
+  {
+    "id": 10,
+    "question": "¿Qué bolsas son mejores para el medio ambiente?",
+    "options": ["De plástico", "Reutilizables", "De un solo uso", "De colores"],
+    "correctAnswer": 1,
+    "topic": "Medio Ambiente",
+    "level": 1
+  },
+  {
+    "id": 21,
+    "question": "¿Cuándo visito Cristobal Colon América por primera vez?",
+    "options": ["En1492", "En 1692", "En 1789", "En 1500"],
+    "correctAnswer": 0,
+    "topic": "Arte y Literatura e Historia",
+    "level": 1
+  },
+  {
+    "id": 23,
+    "question": "¿Quién piso por primera vez la luna en 1969?",
+    "options": [
+      "La perra Laika",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Lightyear"
+    ],
+    "correctAnswer": 1,
+    "topic": "Arte y Literatura e Historia",
+    "level": 1
+  },
+  {
+    "id": 24,
+    "question": "¿Que ocurrió en el año 79 d.c para que la ciudad de Pompeya quedara sepultada por las cenizas?",
+    "options": [
+      "Una Barbacoa",
+      "La erupción del Etna",
+      "La erupción del Vesubio",
+      "Un terremoto"
+    ],
+    "correctAnswer": 2,
+    "topic": "Arte y Literatura e Historia",
+    "level": 1
+  },
+  {
+    "id": 30,
+    "question": "¿ En que año estallo la segunda guerra mundial?",
+    "options": [
+      "En 1945",
+      "En 1939",
+      "En la guerra de los años, en 1337",
+      "En 1914"
+    ],
+    "correctAnswer": 1,
+    "topic": "Arte y Literatura e Historia",
+    "level": 1
+  },
+  {
+    "id": 31,
+    "question": "¿Quién es Barack Obama?",
+    "options": [
+      "El presidente del Camerún",
+      "El rey de noruega",
+      "El primer presidente negro de EE.UU",
+      "Un actor de cine"
+    ],
+    "correctAnswer": 2,
+    "topic": "Arte y Literatura e Historia",
+    "level": 1
+  },
+  {
+    "id": 35,
+    "question": "¿Cómo se llama el león de Las Crónicas de Narnia?",
+    "options": ["Aslan", "Mufasa", "El rey león", "Simba"],
+    "correctAnswer": 0,
+    "topic": "Arte y Literatura e Historia",
+    "level": 1
+  },
+  {
+    "id": 40,
+    "question": "¿Qué personaje de cuento durmió durante 100 años?",
+    "options": [
+      "La princesa Yasmina",
+      "Blanca Nieves",
+      "La bella durmiente",
+      "Cenicienta"
+    ],
+    "correctAnswer": 2,
+    "topic": "Arte y Literatura e Historia",
+    "level": 1
+  },
+  {
+    "id": 22,
+    "question": "¿Sobre qué material están dibujadas las pinturas rupestres?",
+    "options": [
+      "Sobre piedra",
+      "Sobre cuero",
+      "Sobre papel de papiro",
+      "Sobre madera"
+    ],
+    "correctAnswer": 0,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 42,
+    "question": "¿Cuándo se formo The Beatles, la mítica banda de rock de Liverpool?",
+    "options": [
+      "A principio del 2000",
+      "A finales de 1980",
+      "En la década de 1960",
+      "En la década de 1920"
+    ],
+    "correctAnswer": 2,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 11,
+    "question": "¿A qué velocidad corre un avestruz?",
+    "options": ["20 km/h", "40 km/h", "70 km/h", "120 km/h"],
+    "correctAnswer": 2,
+    "topic": "Naturaleza",
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "¿Por qué cantan los gallos por la mañana?",
+    "options": [
+      "Tienen hambre",
+      "Para marcar territorio",
+      "Están felices",
+      "Quieren jugar"
+    ],
+    "correctAnswer": 1,
+    "topic": "Naturaleza",
+    "level": 2
+  },
+  {
+    "id": 13,
+    "question": "¿Qué guardan las nutrias bajo los brazos?",
+    "options": ["Comida", "Su piedra favorita", "Arena", "Agua"],
+    "correctAnswer": 1,
+    "topic": "Naturaleza",
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "¿Pueden reír ratas y ratones?",
+    "options": [
+      "No, nunca",
+      "Sí, con cosquillas",
+      "Solo si están solos",
+      "Si ven televisión"
+    ],
+    "correctAnswer": 1,
+    "topic": "Naturaleza",
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "¿Cómo gastar menos combustible?",
+    "options": [
+      "Acelerando mucho",
+      "No superar velocidad",
+      "Frenando siempre",
+      "Ir en punto muerto"
+    ],
+    "correctAnswer": 1,
+    "topic": "Medio Ambiente",
+    "level": 2
+  },
+  {
+    "id": 25,
+    "question": "Durante la construcción de las pirámides de Egipto ¿Existían los mamuts?",
+    "options": [
+      "Se habían extinguido ya",
+      "Por supuesto",
+      "Los mamuts nunca existieron",
+      "Vivían en África"
+    ],
+    "correctAnswer": 0,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 26,
+    "question": "¿Cuál es la civilización más antigua del mundo?",
+    "options": ["La mesopotámica", "La ibérica", "La maya", "La romana"],
+    "correctAnswer": 0,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 27,
+    "question": "¿En que edad de la historia nos encontramos?",
+    "options": [
+      "La tecnológica",
+      "La moderna",
+      "La contemporánea",
+      "La prehistoria"
+    ],
+    "correctAnswer": 2,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 29,
+    "question": "Johannes Gutenberg imprimió el primer el primer libro en 1440. ¿Cuál fue?",
+    "options": [
+      "Misal de constanza",
+      "La biblia",
+      "Las mil y una noches",
+      "Don Quijote"
+    ],
+    "correctAnswer": 1,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 32,
+    "question": "¿Qué pintor Neerlandes es el autor del cuadro Los Girasoles?",
+    "options": [
+      "James Sunflower",
+      "Vincent Van Gogh",
+      "Paul Gauguin",
+      "Pablo Picasso"
+    ],
+    "correctAnswer": 1,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 33,
+    "question": "¿Quién compuso Las Cuatro Estaciones?",
+    "options": [
+      "Antonio Vivaldi",
+      "Ludwig Van Beethoven",
+      "David Guetta",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "correctAnswer": 0,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 34,
+    "question": "¿Cuál es el titulo completo de la obra mas universal de Miguel de Cervantes?",
+    "options": [
+      "Don Quijote cabalga de nuevo",
+      "Sancho y Quijote",
+      "El ingenioso Hidalgo Don Quijote de la Mancha",
+      "Aventuras de Don Quijote"
+    ],
+    "correctAnswer": 2,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 36,
+    "question": "En las novelas de Harry Potter ¿Quién es Hedwig?",
+    "options": [
+      "La lechuza de Harry",
+      "Un gigante",
+      "El profesor de defensa contra las artes oscuras",
+      "Un dragón"
+    ],
+    "correctAnswer": 0,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 37,
+    "question": "¿Quién escribió la historia de amor de Romeo y Julieta?",
+    "options": [
+      "Willy Fog",
+      "Jhon Green Shakespeare",
+      "William Shakespeare",
+      "Miguel de Cervantes"
+    ],
+    "correctAnswer": 2,
+    "topic": "Arte y Literatura e Historia",
+    "level": 2
+  },
+  {
+    "id": 17,
+    "question": "¿Cuánta agua se ahorra al cerrar el grifo?",
+    "options": ["1 L/min", "20 L/min", "5–10 L/min", "No se ahorra"],
+    "correctAnswer": 2,
+    "topic": "Medio Ambiente",
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "¿Qué porcentaje del agua es salada?",
+    "options": ["50%", "75%", "97%", "10%"],
+    "correctAnswer": 2,
+    "topic": "Medio Ambiente",
+    "level": 3
+  },
+  {
+    "id": 7,
+    "question": "¿Qué estudia una ornitóloga?",
+    "options": ["Insectos", "Peces", "Aves", "Mamíferos"],
+    "correctAnswer": 2,
+    "topic": "Ciencia",
+    "level": 3
+  },
+  {
+    "id": 18,
+    "question": "¿Hubo árboles en la Antártida?",
+    "options": [
+      "No, nunca",
+      "Sí, hace 100 millones de años",
+      "Solo hace 10 años",
+      "Siempre ha habido"
+    ],
+    "correctAnswer": 1,
+    "topic": "Naturaleza",
+    "level": 3
+  },
+  {
+    "id": 19,
+    "question": "¿Qué es el Protocolo de Kioto?",
+    "options": [
+      "Un código de honor",
+      "Acuerdo climático",
+      "Una marca de coches",
+      "Un juego de mesa"
+    ],
+    "correctAnswer": 1,
+    "topic": "Medio Ambiente",
+    "level": 3
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál está en peligro de extinción?",
+    "options": ["Oso polar", "Paloma común", "Perro doméstico", "Gato"],
+    "correctAnswer": 0,
+    "topic": "Naturaleza",
+    "level": 3
+  },
+  {
+    "id": 28,
+    "question": "¿En la mitología romana, la diosa Caca era la diosa de….?",
+    "options": [
+      "El hogar y el fuego",
+      "El agua y el fuego",
+      "El fuego y el amor",
+      "La guerra"
+    ],
+    "correctAnswer": 0,
+    "topic": "Arte y Literatura e Historia",
+    "level": 3
+  },
+  {
+    "id": 38,
+    "question": "En que año y en qué país nació el género musical Reguetón?",
+    "options": [
+      "En 1970 en Cuba",
+      "En 1990 en Puerto Rico",
+      "En el 2005 en el barrio de Harlem",
+      "En 1980 en España"
+    ],
+    "correctAnswer": 1,
+    "topic": "Arte y Literatura e Historia",
+    "level": 3
+  },
+  {
+    "id": 39,
+    "question": "¿Cómo se llaman los poemas épicos de los griegos Ulises y Aquiles?",
+    "options": [
+      "La guerra de Troya",
+      "La Ilíada y la Odisea",
+      "Furia de Titanes",
+      "Los Argonautas"
+    ],
+    "correctAnswer": 1,
+    "topic": "Arte y Literatura e Historia",
+    "level": 3
+  },
+  {
+    "id": 41,
+    "question": "¿Qué representaba generalmente la ´pintora Frida Khalo en sus Cuadros?",
+    "options": [
+      "Animales de tres patas",
+      "Exclusivamente flores",
+      "Todo lo que la rodeaba",
+      "Paisajes europeos"
+    ],
+    "correctAnswer": 2,
+    "topic": "Arte y Literatura e Historia",
+    "level": 3
+  }
+]

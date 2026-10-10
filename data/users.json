@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "username": "gabo",
+    "points": 38,
+    "unlockedCharacters": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      25
+    ]
+  },
+  {
+    "id": 2,
+    "username": "triana",
+    "points": 24,
+    "unlockedCharacters": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      24
+    ]
+  },
+  {
+    "id": 5,
+    "username": "dylan",
+    "points": 23,
+    "unlockedCharacters": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  },
+  {
+    "id": 6,
+    "username": "juan",
+    "points": 61,
+    "unlockedCharacters": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      22
+    ]
+  }
+]

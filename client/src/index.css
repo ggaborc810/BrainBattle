@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Nunito:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: 'Fredoka', sans-serif;
+  --font-body: 'Nunito', sans-serif;
+
+  /* Playful Palette */
+  --background: 45 100% 96%;     /* Creamy Yellow */
+  --foreground: 222 47% 11%;     /* Dark Navy */
+  
+  --primary: 210 90% 55%;        /* Bright Blue */
+  --primary-foreground: 0 0% 100%;
+  
+  --secondary: 330 85% 60%;      /* Hot Pink */
+  --secondary-foreground: 0 0% 100%;
+  
+  --accent: 150 80% 45%;         /* Lime/Grass Green */
+  --accent-foreground: 0 0% 100%;
+  
+  --destructive: 0 85% 60%;      /* Bright Red */
+  --destructive-foreground: 0 0% 100%;
+  
+  --muted: 210 20% 90%;
+  --muted-foreground: 215 16% 47%;
+  
+  --card: 0 0% 100%;
+  --card-foreground: 222 47% 11%;
+  
+  --border: 214 32% 91%;
+  --ring: 210 90% 55%;
+  
+  --radius: 1rem;
+}
+
+.dark {
+  --background: 222 47% 11%;
+  --foreground: 210 40% 98%;
+  --card: 222 47% 14%;
+  --card-foreground: 210 40% 98%;
+  --border: 217 33% 17%;
+  --muted: 217 33% 17%;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-primary/30 selection:text-primary;
+    font-family: var(--font-body);
+    background-image: radial-gradient(circle at 10% 20%, hsla(330, 85%, 60%, 0.1) 0%, transparent 20%),
+                      radial-gradient(circle at 90% 80%, hsla(210, 90%, 55%, 0.1) 0%, transparent 20%);
+    background-attachment: fixed;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    @apply font-bold tracking-tight;
+  }
+}
+
+/* Custom Animation Classes */
+.bounce-hover {
+  @apply transition-transform duration-200 ease-spring;
+}
+.bounce-hover:hover {
+  @apply -translate-y-1 scale-105;
+}
+.bounce-hover:active {
+  @apply translate-y-0 scale-95;
+}
+
+/* Custom Scrollbar for fun */
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-muted/50 rounded-full;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-primary/50 rounded-full hover:bg-primary transition-colors;
+}
